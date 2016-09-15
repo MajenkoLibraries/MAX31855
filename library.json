@@ -1,0 +1,13 @@
+{
+  "name": "MAX31855",
+  "keywords": "thermocouple, spi, temperature",
+  "description": "MAX31855 thermocouple library for chipKIT",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MajenkoLibraries/MAX31855"
+  },
+  "version": "1.0.5",
+  "frameworks": "arduino",
+  "platforms": "microchippic32"
+}
