@@ -1,7 +1,0 @@
-LICENSE usr/share/doc/libmax31855/
-MAX31855.cpp libraries/Sensors/MAX31855/
-MAX31855.h libraries/Sensors/MAX31855/
-README.md usr/share/doc/libmax31855/
-examples/multi_max31855/multi_max31855.ino libraries/Sensors/MAX31855/examples/multi_max31855
-examples/read_max31855/read_max31855.ino libraries/Sensors/MAX31855/examples/read_max31855
-keywords.txt libraries/Sensors/MAX31855/
